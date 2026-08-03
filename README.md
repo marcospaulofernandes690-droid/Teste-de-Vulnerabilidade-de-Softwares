@@ -73,9 +73,7 @@ As tecnologias utilizadas no desenvolvimento ainda estão sendo definidas.
 
 ## 🖼️ Protótipo
 
-O protótipo do projeto será desenvolvido durante a etapa de prototipação.
-
-🔗 **Acesso ao protótipo:** [Protótipo disponível no Figma](https://www.figma.com/make/rhGMzpcA8vZSJF0eDxTJFl/Prot%C3%B3tipo-TCC-media-fidelidade?fullscreen=1&t=MgkfEEFNrqPn2edp-1&code-node-id=0-9)
+🔗 **Acesso ao protótipo:** [Disponível aqui!](https://www.figma.com/make/rhGMzpcA8vZSJF0eDxTJFl/Prot%C3%B3tipo-TCC-media-fidelidade?fullscreen=1&t=MgkfEEFNrqPn2edp-1&code-node-id=0-9)
 
 ---
 
