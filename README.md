@@ -58,10 +58,8 @@ As tecnologias utilizadas no desenvolvimento ainda estão sendo definidas.
 | Back-end                    | `PHP`         |
 | Banco de dados              | `MySQL`       |
 | Testes de segurança         | `[Preencher]` |
-| Prototipação                | `[Preencher]` |
+| Prototipação                | `Figma`       |
 | Versionamento               | `Git e GitHub`|
-| Ambiente de desenvolvimento | `[Preencher]` |
-
 
 ---
 
@@ -81,8 +79,7 @@ As tecnologias utilizadas no desenvolvimento ainda estão sendo definidas.
 
 A documentação completa do projeto será disponibilizada na Wiki deste repositório.
 
-🔗 **Acesso à Wiki:** [Documentação do projeto](https://github.com/SEU-USUARIO/SEU-REPOSITORIO/wiki)
-
+🔗 **Acesso à Wiki:** [Documentação do projeto](https://github.com/marcospaulofernandes690-droid/Teste-de-Vulnerabilidade-de-Softwares/wiki)
 
 ---
 
