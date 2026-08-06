@@ -54,10 +54,9 @@ As tecnologias utilizadas no desenvolvimento ainda estão sendo definidas.
 
 | Área                        | Tecnologia    |
 | --------------------------- | ------------- |
-| Front-end                   | `[Preencher]` |
+| Front-end                   | `HTML, CSS, Java Script` |
 | Back-end                    | `PHP`         |
 | Banco de dados              | `MySQL`       |
-| Testes de segurança         | `[Preencher]` |
 | Prototipação                | `Figma`       |
 | Versionamento               | `Git e GitHub`|
 
