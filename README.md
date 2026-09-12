@@ -32,7 +32,7 @@
 | **Curso**                  | `Ensino Médio Integrado ao Técnico em Desenvolvimento de Sistemas`|
 | **Turma**                  | `3° DS-N`                   |
 | **Instituição**            | `ETEC Euro Albino de Souza` |
-| **Professor orientador**   | `Pedro Ramires da Silva Amalfi Costa`|
+| **Professor orientador**   | `Pedro Ramires da Silva Amalfi Costa & Fatima Aparecida Tagliaferro Spitti`|
 | **Ano de desenvolvimento** | `2026`                      |
 
 ---
